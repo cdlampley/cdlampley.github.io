@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: file
 title: Book Review Policy
 permalink: /book-review-policy/
 ---
