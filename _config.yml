@@ -4,11 +4,11 @@ email: hello@cherielampley.com
 description: Welcome to CherieLampley.com! I am a writer | web developer | youtuber living in Ohio. I love to read and watch sports.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://cherielampley.com" # the base hostname & protocol for your site
-comments: true
 twitter_username: thesportsdiva
 github_username:  cdlampley
-youtube_username: cherielampley
-facebook_username: cherielampley
+
+#blog commments
+comments: true
 
 # Build settings
 markdown: kramdown
