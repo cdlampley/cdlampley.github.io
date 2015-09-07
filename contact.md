@@ -19,8 +19,11 @@ permalink: /contact/
 
 </div>
 <div>
+<a href="http://youtube.com/cherielampley">YouTube</a>
+</div>
+<div>
 
-<a href="https://plus.google.com/107655256437117319172/posts">Google+</a>
+<a href="https://plus.google.com/+cherielampley">Google+</a>
 
 </div>
 <div>
