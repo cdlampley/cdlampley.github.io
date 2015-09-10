@@ -1,5 +1,5 @@
 ---
-layout: info-page
+layout: page
 permalink: /book-review-policy/
 ---
 
