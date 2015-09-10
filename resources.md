@@ -2,8 +2,8 @@
 layout: info-page
 permalink: /resources/
 ---
-<h1 style="font-decoration:bold;">Resources</h1>
-<br>
+<h1>Resources</h1>
+
 I thought it would be helpful to create this resource page. I wanted to help in showing what I use to create my videos as well as this website. This page will be updated on a regular basis if I decide to use a different or new product. I hope this helps if you are deciding to start a blog or YouTube channel.
 <div>
 <h3>Camera</h3>
