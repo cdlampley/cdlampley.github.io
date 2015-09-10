@@ -22,9 +22,7 @@
 .thumbnail {
     text-align: center;
 }
-.nav a {
-	color: #000;
-}
+
 /** About Section **/
 #about {
   font-size: 1.25em;
@@ -36,6 +34,12 @@
   text-align: center;
 }
 #about h3 {
+    color: #ef4f91;
+		font-family: Lobster;
+		top: 0;
+		font-size: 2em;
+}
+.col-md-6 h3 {
     color: #ef4f91;
 		font-family: Lobster;
 		top: 0;
@@ -56,6 +60,7 @@ a {
   width: 350px;
   height: 400px;
   margin-left: 125px;
+  margin-bottom: 50px;
 }
 .photo {
 	text-align: center;

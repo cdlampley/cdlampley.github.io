@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Book Review Policy
 permalink: /book-review-policy/
 ---

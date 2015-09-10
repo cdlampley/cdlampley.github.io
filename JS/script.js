@@ -1,6 +1,11 @@
-//create copyright year
-var today = new Date();
-var year = today.getFullYear();
-
-var date = document.getElementById('footer');
-date.innerHTML = '<p> &copy; ' + 'Cherie Lampley ' + year + '</p>';
+//sidr plugin
+$(document).ready(function() {
+    $('#left-menu').sidr({
+      name: 'sidr-left',
+      side: 'left' // By default
+    });
+    $('#right-menu').sidr({
+      name: 'sidr-right',
+      side: 'right'
+    });
+});
