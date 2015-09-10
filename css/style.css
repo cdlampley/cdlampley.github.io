@@ -5,3 +5,90 @@
 .about {
 	text-align:justify;
 }
+.title {
+    font-family: Lobster;
+    font-size: 4em;
+    color: #c7ac05;
+    margin-top: 30px;
+}
+#main {
+  padding-top: 70px;
+  height: 600px;
+}
+#main h1 {
+  text-align: center;
+  margin-bottom: 0;
+}
+.thumbnail {
+    text-align: center;
+}
+.nav a {
+	color: #000;
+}
+/** About Section **/
+#about {
+  font-size: 1.25em;
+}
+#about h2 {
+  background: #7faf94;
+  padding: 10px 50px;
+  color: #fff8f1;
+  text-align: center;
+}
+#about h3 {
+    color: #ef4f91;
+		font-family: Lobster;
+		top: 0;
+		font-size: 2em;
+}
+a {
+    color: #ef4f91;
+		text-decoration: none;
+}
+.lead {
+  font-family: Lobster;
+}
+
+/** Image **/
+#image {
+  border: 5px solid #c7ac05;
+  border-radius: 100px;
+  width: 350px;
+  height: 400px;
+  margin-left: 125px;
+}
+.photo {
+	text-align: center;
+	color: #ef4f91;
+	font-family: Lobster;
+	margin-top: 50px;
+}
+.image {
+	margin-bottom: 25px;
+}
+/** Portfolio Section **/
+#portfolio h2 {
+	background: #7faf94;
+	padding: 10px 50px;
+	color: #fff8f1;
+	text-align: center;
+}
+#portfolio h3 {
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+/** Contact Section **/
+#contact h2 {
+	background: #7faf94;
+	padding: 10px 50px;
+	color: #fff8f1;
+	text-align: center;
+}
+#contact {
+	font-size: 1.25em;
+  margin-bottom: 325px;
+}
+#contact p {
+	text-align: center;
+}
