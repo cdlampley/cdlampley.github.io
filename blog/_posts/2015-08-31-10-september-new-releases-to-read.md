@@ -2,41 +2,7 @@
 layout: post
 title: 10 September New Releases To Read
 date: 2015-08-31 07:30:04.000000000 -04:00
-categories:
-- Books
-- Reading
-tags:
-- book new releases
-- books
-- jojo moyes
-- new releases
-- Ransom Riggs
-- sarah j. maas
-- september releases
-- top 10
-- top 10 books
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441332884;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:3038;}i:1;a:1:{s:2:"id";i:3137;}i:2;a:1:{s:2:"id";i:2554;}}}}
-  _publicize_twitter_user: "@thesportsdiva"
-  _wpas_mess: 10 September New Releases To Add To Your TBR
-  dsq_thread_id: '4081740259'
-  _wpas_done_all: '1'
-  _wpas_skip_3978535: '1'
-  _wpas_skip_3978447: '1'
-  _wpas_skip_3675065: '1'
-  _wpas_skip_7343158: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books reading
 ---
 <p>September is almost here! I'm doing something new. I want to feature 10 new releases each month. I will start with the month of September. These are in order of release date. Happy reading!</p>
 <h2>1.</h2>

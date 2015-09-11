@@ -2,54 +2,13 @@
 layout: post
 title: August Book Haul
 date: 2015-08-22 10:00:43.000000000 -04:00
-categories:
-- Books
-- Video
-tags:
-- august book haul
-- book
-- book haul
-- books
-- booktube
-- haul
-- video
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  book_review_rating: "-1"
-  book_review_archive_post: '1'
-  _wpas_skip_3978535: '1'
-  _wpas_skip_3978447: '1'
-  _wpas_skip_11128275: '1'
-  _wpas_skip_3675065: '1'
-  _wpas_skip_7343158: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441227756;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:3284;}i:1;a:1:{s:2:"id";i:3137;}i:2;a:1:{s:2:"id";i:3108;}}}}
-  _wpas_done_all: '1'
-  _publicize_facebook_user: http://www.facebook.com/529547120
-  _publicize_twitter_user: "@thesportsdiva"
-  _oembed_1bbd0dc917ef3880ee9def7629195715: <iframe width="660" height="371" src="https://www.youtube.com/embed/UPyPsuBe7Wo?feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
-  _oembed_time_1bbd0dc917ef3880ee9def7629195715: '1440890094'
-  _oembed_cba95e90f97dc0e0fb8e813341d0f69f: <iframe width="800" height="450" src="https://www.youtube.com/embed/UPyPsuBe7Wo?feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
-  _oembed_time_cba95e90f97dc0e0fb8e813341d0f69f: '1440890270'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books video
 ---
-<p><a href="http://www.bloglovin.com/blog/14391523/?claim=f7j2fzzm7sy">Follow my blog with Bloglovin</a><br />
-https://youtu.be/UPyPsuBe7Wo</p>
-<h3>My August Book Haul! I've purchased some books since I did my last book haul.</h3>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/UPyPsuBe7Wo?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
+My August Book Haul! I've purchased some books since I did my last book haul.
 <h3>Video Mentions:</h3>
-<p><a href="http://cherielampley.com/blog/2015/08/05/august-tbr/">August TBR<br />
-Review of You by Caroline Kepnes</a></p>
+<p><a href="http://cherielampley.com/blog/2015/08/05/august-tbr/">August TBR</a>
 <h3>Books Mentioned:</h3>
 <p>Kindred by Octavia Butler<br />
 <a href="http://amzn.to/1fwXRr2">Amazon</a> | <a href="http://bit.ly/1EaPEF4">Book Depository</a><br />
@@ -77,3 +36,4 @@ Conversion by Katherine Howe<br />
 <h3>Make sure you find me online</h3>
 <p><a href="http://youtube.com/cherielampley">YouTube</a> | <a href="http://twitter.com/thesportsdiva">Twitter</a> | <a href="http://facebook.com/readwithcherie">Facebook</a> | <a href="https://www.bloglovin.com/blogs/cherie-lampley-14391523">Bloglovin</a></p>
 </div>
+<a href="http://www.bloglovin.com/blog/14391523/?claim=f7j2fzzm7sy">Follow my blog with Bloglovin</a>
