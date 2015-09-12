@@ -15,7 +15,7 @@ Submitting a request does not guarantee a review.<br>
 Self-Published novels will be considered as well.<br>
 
 <b>Preferred Genres:</b><br>
-Contemporary (Mostly adult. I rarely read YA contemporary)<br>
+Contemporary<br>
 Mystery & Thrillers<br>
 Paranormal<br>
 Science Fiction/Dystopian<br>
