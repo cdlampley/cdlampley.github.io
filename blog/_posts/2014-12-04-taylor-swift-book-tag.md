@@ -2,36 +2,7 @@
 layout: post
 title: Taylor Swift Book Tag
 date: 2014-12-04 16:33:31.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-- book tag
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  publicize_facebook_url: https://facebook.com/10152427408342121
-  _publicize_pending: '1'
-  geo_public: '0'
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/eYCAayAEX5n
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/wcEoOxTfiY
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/104354851184
-  _wpas_done_3675065: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books book-tag
 ---
 <p style="text-align:center;">This tag was created by <a href="https://www.youtube.com/watch?v=iaFRgPdxK3A">The Book Life</a>. Fun tag. Turn up some T. Swift and let's do this!</p>
 <p style="text-align:center;"><strong>1. We Are Never Ever Getting Back Together</strong><br />

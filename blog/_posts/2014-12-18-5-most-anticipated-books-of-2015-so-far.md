@@ -2,45 +2,9 @@
 layout: post
 title: 5 Most Anticipated Books of 2015 (So Far)
 date: 2014-12-18 21:52:52.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  _oembed_e6bda8453dc1a1e3d846ba0a6b9e11a0: "{{unknown}}"
-  _oembed_07c0b28195213a84e15ac9d4b5be50a6: "{{unknown}}"
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152454794592121
-  geo_public: '0'
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/6urod3fZVpY
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/lQ1FfoTrHp
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/105574080804
-  _wpas_done_3675065: '1'
-  _wpas_skip_3978535: '1'
-  _wpas_skip_7343158: '1'
-  _wpas_skip_3978447: '1'
-  _wpas_skip_3675065: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441330031;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:208;}i:1;a:1:{s:2:"id";i:157;}i:2;a:1:{s:2:"id";i:2686;}}}}
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books blogmas
 ---
 <p>A new year is almost here. Which means more books will be coming out and wanting my attention. I haven't had time to look at all the books coming out next year, but I do know a few coming out in the early months and these are ones I'm really anticipating.</p>
-<p>[gallery size="medium" columns="5" ids="2697,2698,2699,2700,2701"]</p>
 <ul>
 <li><strong><a href="https://www.goodreads.com/book/show/22055262-a-darker-shade-of-magic?from_search=true">A Darker Shade of Magic</a> by V.E. Schwab (2/24/15)</strong>. I don't know if you know this, but Vicious (written by V.E. Schwab) is one of my favorite books. EVER. Oh you did? Tired of me saying it? Well sorry, I'm not going to stop saying that. When I found out this book existed, the first thing I did was find I could hang out with it. After that, I read the summary. Parallel universes. Magicians. Treason. Yep. Can not wait to read this.</li>
 <li><strong><a href="https://www.goodreads.com/book/show/18966819-golden-son?from_search=true">Golden Son</a> by Pierce Brown (1/6/15)</strong>. This is the second book of the Red Rising trilogy. I'm currently finishing up the 1st book and unless something drastic happens in the remaining pages, I'm going to be read this.</li>

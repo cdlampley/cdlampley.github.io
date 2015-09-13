@@ -2,36 +2,7 @@
 layout: post
 title: Tis The Season Book Tag
 date: 2014-12-19 18:52:27.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-- book tag
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  geo_public: '0'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152456156417121
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/H31nosYZme2
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/VGMa0DgFsc
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/105643763099
-  _wpas_done_3675065: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books blogmas
 ---
 <p style="text-align:center;">This tag was created by <strong>RichardReads </strong><a class="yt-uix-redirect-link" title="https://www.youtube.com/channel/UCsND3O0wTvr6X3IjgieVnuA" href="https://www.youtube.com/channel/UCsND3O0wTvr6X3IjgieVnuA" target="_blank" rel="nofollow">https://www.youtube.com/channel/UCsND...</a>. Let's get started!</p>
 <p style="text-align:center;"><strong>1. Do you have a favorite winter read?</strong></p>

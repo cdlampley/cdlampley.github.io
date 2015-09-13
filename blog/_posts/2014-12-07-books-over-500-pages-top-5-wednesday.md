@@ -2,38 +2,7 @@
 layout: post
 title: Books Over 500 Pages - Top 5 (Wednesday?)
 date: 2014-12-07 23:12:39.000000000 -05:00
-categories:
-- Books
-tags:
-- tags
-- top 5 wednesday
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  _oembed_4de3805d7a0d46bfa888e94f295d3dde: "{{unknown}}"
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152433320562121
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/gJuYEZDMNxe
-  geo_public: '0'
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/nLXlJhhUxQ
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/104644258804
-  _wpas_done_3675065: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1435992893;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2686;}i:1;a:1:{s:2:"id";i:195;}i:2;a:1:{s:2:"id";i:2653;}}}}
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books blogmas  book-tag
 ---
 <p>So...I signed up for the <a href="https://www.goodreads.com/group/show/118368-top-5-wednesday">Top 5 Wednesday</a> group on Goodreads. As you can see. I have yet to post one of these. Although it isn't Wednesday, Blogmas is giving me time to catch up. This was one of the November topics. Books that I own that are over 500 pages. I have more than this, like Harry Potter. But since that would almost take up the entire list, I thought I'd try some other books.</p>
 <p><a href="https://cheriedlampley.files.wordpress.com/2014/12/photo-dec-07-11-00-55-pm-1.jpg"><img class=" size-medium wp-image-2649 aligncenter" src="assets/photo-dec-07-11-00-55-pm-1.jpg?w=300" alt="Photo Dec 07, 11 00 55 PM (1)" width="300" height="262" /></a></p>

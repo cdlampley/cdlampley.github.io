@@ -2,41 +2,7 @@
 layout: post
 title: Blogmas Book Haul
 date: 2014-12-13 12:24:06.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-- book haul
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  geo_public: '0'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152443550142121
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/b2ww4nA3eoW
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/4IrdReGfhS
-  _wpas_done_3978447: '1'
-  _wpas_tumblr_publicize_failure: O:13:"Keyring_Error":2:{s:16:"
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/
-  _wpas_skip_3978535: '1'
-  _wpas_skip_7343158: '1'
-  _wpas_skip_3978447: '1'
-  _wpas_skip_3675065: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441465492;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:18;}i:1;a:1:{s:2:"id";i:208;}i:2;a:1:{s:2:"id";i:103;}}}}
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books blogmas haul
 ---
 <p style="text-align:center;"><a href="https://cheriedlampley.files.wordpress.com/2014/12/img_0539.jpg"><img class="alignnone size-medium wp-image-2668" src="assets/img_0539.jpg?w=289" alt="IMG_0539" width="289" height="300" /></a></p>
 <p style="text-align:left;">I've done pretty well in my book buying the last few months. I bought enough books in July, August, and September to last me for a pretty long while. So I didn't seek out to buy any new books. Well, until I saw the bookoutlet.com sale for the Black Friday weekend. That's where most of these came from. Others from Target and Amazon. I also got a new Kindle (!). My Nook is falling apart and I wanted/needed a new one. I didn't want a tablet, I have an iPad, and I wanted an e-ink device. And it was on sale for $49. And I had some amazon credit. Anyway, here is my book haul.</p>

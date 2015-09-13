@@ -2,36 +2,7 @@
 layout: post
 title: Books I Need To Finish
 date: 2014-12-14 20:23:02.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152446031552121
-  _wpas_tumblr_publicize_failure: O:13:"Keyring_Error":2:{s:16:"
-  geo_public: '0'
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/ANgMdWLYiKC
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/nKSviM62pL
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1433414943;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2637;}i:1;a:1:{s:2:"id";i:103;}i:2;a:1:{s:2:"id";i:208;}}}}
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books reading
 ---
 <p style="text-align:center;">For some reason or another, I have started these 5 books and have yet to finish them. Maybe I just wasn't in the mood at the time. Maybe some other book was screaming at me on my shelf to read it. Maybe I wanted to just read or watch Harry Potter. There are many different possible reasons. I do plan on finishing them at some point. One day. One day I will. Here are the books. The Bone Clocks is on my TBR this year and the plan is still to read it.</p>
 <p style="text-align:center;"><a href="https://cheriedlampley.files.wordpress.com/2014/12/2014-12-14-20-06-25.jpg"><img class="alignnone size-medium wp-image-2675 aligncenter" src="assets/2014-12-14-20-06-25.jpg?w=300" alt="2014-12-14 20.06.25" width="300" height="300" /></a></p>

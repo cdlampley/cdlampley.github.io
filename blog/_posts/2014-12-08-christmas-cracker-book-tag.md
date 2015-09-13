@@ -2,37 +2,7 @@
 layout: post
 title: Christmas Cracker Book Tag
 date: 2014-12-08 19:41:38.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-- book tag
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  geo_public: '0'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152434879772121
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/4SrmFE7vZ9u
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/UQm03Arbpo
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/104715109819
-  _wpas_done_3675065: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1437632113;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2639;}i:1;a:1:{s:2:"id";i:2717;}i:2;a:1:{s:2:"id";i:2709;}}}}
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: boks blogmas book-tag
 ---
 <p style="text-align:center;">Another Blogmas day. Another book tag post. But this one is different. This one is a Christmas book tag! This post was created by <a href="https://www.youtube.com/watch?v=Mr8VHhSufC4">lucythereader</a> on youtube. Here we go.</p>
 <p style="text-align:center;"><strong>1. Pick a book with a wintery cover.</strong></p>

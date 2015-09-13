@@ -2,35 +2,7 @@
 layout: post
 title: Series I Want To Start - Blogmas Day 10
 date: 2014-12-10 16:50:46.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152439080917121
-  geo_public: '0'
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/hBjrbjDaLq8
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/CUOFcXkzk9
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/104870614284
-  _wpas_done_3675065: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books blogmas
 ---
 <p style="text-align:center;">I believe I missed a day. I was walking into work this morning and it came to me. I missed yesterday. Oops. Well I will try not to let that happen again. Down to business. I want to talk about series today. Series I want to read. Series I probably should have already read. I have 8. These are in no particular order. Hopefully I can read most of these in 2015.</p>
 <p style="text-align:center;"><strong>The Lunar Chronicles</strong></p>
