@@ -2,38 +2,11 @@
 layout: post
 title: My Love for the Newsletter Led Me to Create One
 date: 2015-05-24 09:46:54.000000000 -04:00
-categories:
-- sports
-tags:
-- blankspace
-- newsletter
-- sports
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  book_review_rating: "-1"
-  book_review_archive_post: '1'
-  _publicize_facebook_user: http://www.facebook.com/529547120
-  _publicize_twitter_user: "@thesportsdiva"
-  _oembed_810adf22e4b4a8e30b6b517f1265fcc0: "{{unknown}}"
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1437666603;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:3096;}i:1;a:1:{s:2:"id";i:2126;}i:2;a:1:{s:2:"id";i:35;}}}}
-  _wpas_mess: My Love for the Newsletter Led Me to Create One http://wp.me/p5J1wR-KT
-  _wpas_skip_3978535: '1'
-  _wpas_done_all: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: sports newsletter
 ---
 <p style="text-align: left;">I've been doing something more often lately; subscribing to newsletters. Whether it is a personal newsletter or a daily newsletter like <a href="http://www.theskimm.com/">The Skimm</a>, they come into my inbox and I devour them. It doesn't take long to read them either.</p>
 <p style="text-align: left;">Since I found a love for the newsletter, I found a new outlet for my passion for sports. Introducing <strong>Blank Space: a weekly sports newsletter</strong>.</p>
-<p><img class="alignnone" src="assets/newsletter%20header.png" alt="" width="659" height="235" /></p>
+<p><img class="alignnone" src="https://s3.amazonaws.com/f.cl.ly/items/1p28282q1G1W0V3H1N13/newsletter%20header.png" alt="" width="659" height="235" /></p>
 <p>I like how Blank Space feels personal (which is a reason why I chose <a href="http://tinyletter.com">TinyLetter</a> to distribute it.). I like how it is also something that you, the audience, won't have to hunt down. It shows up in your inbox on a weekly basis.</p>
 <p>Here is the archive of the current issues:</p>
 <ol>

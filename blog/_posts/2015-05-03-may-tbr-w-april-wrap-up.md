@@ -2,54 +2,18 @@
 layout: post
 title: May TBR (w/ April Wrap Up)
 date: 2015-05-03 19:45:32.000000000 -04:00
-categories:
-- Books
-- Reading
-tags:
-- books
-- tbr
-- wrap up
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  _oembed_325760d8106275c02f4d212236a5edb2: "{{unknown}}"
-  _oembed_45d65b863012dccfa40a667335f7e27e: "{{unknown}}"
-  _oembed_82579e8e7cb05a525832da201c5d10bb: "{{unknown}}"
-  _oembed_c4f38b51abf0a0d222292468dbea72ba: "{{unknown}}"
-  _oembed_fe7e370fc1835b2374e74fc8d1410996: "{{unknown}}"
-  _oembed_f628b11c4eaf302caa091cda79e1a801: "{{unknown}}"
-  _oembed_27071e869eb744d689d491c619e91fc9: "{{unknown}}"
-  _oembed_ceb019cc3e9e2539f760e020756d54cf: "{{unknown}}"
-  book_review_rating: "-1"
-  book_review_archive_post: '1'
-  _publicize_facebook_user: http://www.facebook.com/529547120
-  _publicize_twitter_user: "@thesportsdiva"
-  _wpas_mess: May TBR (w/ April Wrap Up) http://wp.me/p5J1wR-Ky
-  _wpas_skip_11128275: '1'
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1430740120;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2637;}i:1;a:1:{s:2:"id";i:190;}i:2;a:1:{s:2:"id";i:2799;}}}}
-  _wpas_done_all: '1'
-  tc-thumb-fld: a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books tbr wrapup
 ---
 <p style="text-align: left;">Below are the books I plan on reading in the month of May as well as the books I read in April. I read 3 books last month. Enjoyed each of them. I had a busy month outside of reading. I finished my <a href="http://skillcrush.com" target="_blank">Skillcrush</a> web development course (yay!). I've been working on my <a href="http://cherielampley.com" target="_blank">website</a> and my portfolio. I will get into those in another post. Right now, lets talk about books.</p>
 <p style="text-align: left;"><strong>May TBR</strong></p>
-<p style="text-align: left;"><img class="alignnone" src="assets/20560137.jpg" alt="" width="98" height="149" /> <img class="alignnone" src="assets/989563.jpg" alt="" width="98" height="149" /> <img class="alignnone" src="assets/17347389.jpg" alt="" width="102" height="154" /> <img class="alignnone" src="assets/9780345409645.gif" alt="" width="101" height="152" /> <img class="alignnone" src="assets/13112869.jpg" alt="" width="101" height="153" /></p>
+<p style="text-align: left;"><img class="alignnone" src="http://images.abovethetreeline.com/ea/RH/images/jacket_covers/original/9781595148032_ce022.jpg?width=1000" alt="" width="98" height="149" /> <img class="alignnone" src="http://ecx.images-amazon.com/images/I/51UI35WLeQL._SX308_BO1,204,203,200_.jpg" alt="" width="98" height="149" /> <img class="alignnone" src="http://images.abovethetreeline.com/ea/SC/images/jacket_covers/original/9780545424943.jpeg?width=1000" alt="" width="102" height="154" /> <img class="alignnone" src="http://images.abovethetreeline.com/ea/RH/images/jacket_covers/original/9780345337665_35398.jpg?width=1000f" alt="" width="101" height="152" /> <img class="alignnone" src="http://images.abovethetreeline.com/ea/HC/images/jacket_covers/original/9780062198501_8a863.jpg?width=1000" alt="" width="101" height="153" /></p>
 <p style="text-align: left;">1. <strong>An Ember In The Ashes by Sabaa Tahir</strong>. I'm currently reading this book right now. It follows the story of a young woman that will do whatever it takes to free her brother. This book has a lot of hype surrounding it and I'm ready to continue reading it.</p>
 <p style="text-align: left;">2. <strong>Leaving Atlanta by Tayari Jones.</strong> I am a bit ashamed that I have yet to read a book by this author. I've heard about this author, but never picked up one of her books. Until now. This book is set in the early 80s. It follows 3 5th graders having to deal with their fear and their parents fear because African-American children are vanishing and some are ending up dead.</p>
 <p style="text-align: left;">3. <strong>The Dream Thieves by Maggie Stiefvater</strong>. Back to The Raven Cycle I go. I read The Raven Boys a few months ago and loved it. Ready to get back into the series.</p>
 <p style="text-align: left;">4. <strong>Interview With The Vampire by Anne Rice</strong>. The movie version was on TV a few weeks ago and it made me want to read the book. I then saw a trade paperback version (I'm not a fan of mass market paperback) and had to pick it up.</p>
 <p style="text-align: left;">5. <strong>Not A Drop To Drink by Mindy McGinnis</strong>. I got this book at Ohioana Book Festival. Had a great time there. I met Mindy. She was funny and seems like someone that would be great to have a beer with. This book is about a water shortage and a young woman defending her pond from others.</p>
 <p style="text-align: left;"><strong>April Wrap Up</strong></p>
-<p style="text-align: left;"><img class="alignnone" src="assets/22557272.jpg" alt="" width="98" height="148" /> <img class="alignnone" src="assets/6304335.jpg" alt="" width="98" height="148" /> <img class="alignnone" src="assets/5292557.jpg" alt="" width="101" height="147" /></p>
+<p style="text-align: left;"><img class="alignnone" src="http://images.abovethetreeline.com/ea/RH/images/jacket_covers/original/9781594633669_f40a4.jpg?width=1000" alt="" width="98" height="148" /> <img class="alignnone" src="http://images.abovethetreeline.com/ea/TW/images/jacket_covers/original/9780316042673.JPG?width=1000" alt="" width="98" height="148" /> <img class="alignnone" src="http://images.abovethetreeline.com/ea/RH/images/jacket_covers/original/9780385319959_f0748.jpg?width=1000" alt="" width="101" height="147" /></p>
 <p style="text-align: left;">1. <strong>The Girl On The Train by Paula Hawkins</strong>. The people in this book are a mess. I enjoyed their craziness and the story. The narrators are unreliable which made me wonder if one of them was the one who did it. 4/5</p>
 <p style="text-align: left;">2. <strong>Beautiful Creatures by Kami Garcia &amp; Margaret Stohl</strong>. I really enjoyed this book. I watched the movie sometime last year. I saw this book at Half Priced Books and decided it would be a good time to start this series. 4/5</p>
 <p style="text-align: left;">3. <strong>Outlander by Diana Gabaldon</strong>. I finally read it! The TV series came back and I wanted to watch it. But I wanted to read the book first. So I have. I enjoyed it. That is a theme this month. I have enjoyed all the books this month. I really liked the action scenes that were there. I wanted more of them, but the book was fine. It did take me a while to get into it. At least 200 pages. But overall, a good read. The ending was not what I was expecting. I should probably write up a review to discuss further. 4/5</p>
