@@ -2,36 +2,7 @@
 layout: post
 title: Bookish Scenarios Book Tag
 date: 2014-12-22 21:17:39.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-- book tag
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  geo_public: '0'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152463898122121
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/2YK3crB1ZLU
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/I9eLiunsiu
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/105922106729
-  _wpas_done_3675065: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books
 ---
 <p style="text-align:center;">Tag was created by <a href="https://www.youtube.com/watch?v=2nDR6y6C_y8">Lindsay Hearts Books</a>. Let's do this!</p>
 <p style="text-align:center;"><strong>1. You have to get rid of all your books and you can only keep one from each of these genres - contemporary, fantasy, non-fiction and one other genre of your choosing. What books do you keep?</strong></p>

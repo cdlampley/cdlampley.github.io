@@ -2,41 +2,7 @@
 layout: post
 title: Favorite 12 Books in 2014
 date: 2014-12-31 11:51:45.000000000 -05:00
-categories:
-- Books
-tags:
-- 2014 Favorites
-- books
-- reading
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  geo_public: '0'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152484903632121
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/94xfriEKHG2
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/6sM7DpyCEn
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/106720223189
-  _wpas_done_3675065: '1'
-  _wpas_skip_3978535: '1'
-  _wpas_skip_7343158: '1'
-  _wpas_skip_3978447: '1'
-  _wpas_skip_3675065: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books favorites
 ---
 <p>I had a really good reading year. I read 36 books. I got out of my over year long reading slump. Oh and reading helped me write better. Win win all around. I thought about picking 14 books and I also thought about picking 10. I finally decided on 12. My favorite 12 books I read in 2014. With a lot of people probably doing 14 books in 2014, my number seems weird, right? Whatever. The Big Ten has 14 teams and the Big XII has 10. I choose numbers just like my favorite sport. I have them in order below starting with number 12.</p>
 <p>12.<strong> The 5th Wave by Rick Yancey.</strong> The setting of this book being in Southwest Ohio (where I grew up) gave this bonus points. The book didn't need those bonus points though to be on this list.</p>

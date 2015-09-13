@@ -2,47 +2,7 @@
 layout: post
 title: January Wrap Up | What I did in January
 date: 2015-02-04 10:55:03.000000000 -05:00
-categories:
-- Books
-- Life
-- Reading
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  _wpas_skip_path: '1'
-  geo_public: '0'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152567390577121
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/BpPcX4jx7QV
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/wtRWm7wPHw
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/110079747939
-  _wpas_done_3675065: '1'
-  _edit_last: '1'
-  book_review_rating: "-1"
-  book_review_archive_post: '1'
-  _wpas_skip_3978535: '1'
-  _wpas_skip_3978447: '1'
-  _wpas_skip_11128275: '1'
-  _wpas_skip_3675065: '1'
-  _wpas_skip_7343158: '1'
-  tc-thumb-fld: a:2:{s:9:"_thumb_id";b:0;s:11:"_thumb_type";s:10:"attachment";}
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1440948859;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2653;}i:1;a:1:{s:2:"id";i:2696;}i:2;a:1:{s:2:"id";i:47;}}}}
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books life reading
 ---
 <p>The first month of 2015 is over! It was a good month. Goals were accomplished. I do wish I had read more, but that's okay. Here are things I've did in the month of January.</p>
 <p><strong>1. I read 2 books</strong><br />
@@ -54,4 +14,4 @@ In my resolutions post, I mentioned I wanted to take learning to code seriously 
 <p><strong>4. I "participated" in Bout of Books</strong><br />
 Quotations are around participated because, well, I read one book during it. It was also a very busy week for me at work. Note to self: Don't do read-a-thons during the beginning of the year.</p>
 <p><strong>5. I went to the Ohio State vs. Maryland game</strong></p>
-<p>[embed]http://instagram.com/p/ydPJ7lIIB-/?modal=true[/embed]</p>
+<p><img src="https://s3.amazonaws.com/f.cl.ly/items/091S0K3G331H3H2q3V1w/IMG_0641.JPG"/></p>

@@ -2,34 +2,7 @@
 layout: post
 title: 'Goals 2015: 15 Books To Read on My TBR'
 date: 2015-01-02 08:45:23.000000000 -05:00
-categories:
-- Books
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  _publicize_pending: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/106902384759
-  geo_public: '0'
-  publicize_facebook_url: https://facebook.com/10152494897432121
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/Qysg5y2iuWK
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/UtzOd4J9dN
-  _wpas_done_3978447: '1'
-  _wpas_done_3675065: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books reading
 ---
 <p>Happy New Year everyone! I have some goals for 2015. One of those goals is to read what I actually own.</p>
 <p>I have TBR shame. Lots and lots of TBR shame. I have a lot of books sitting on my shelf, waiting for me to read them. I'm adding 15 of them to my TBR for 2015. They are in no particular order.</p>

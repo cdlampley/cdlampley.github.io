@@ -2,35 +2,7 @@
 layout: post
 title: Holiday Reading List
 date: 2014-12-24 09:30:13.000000000 -05:00
-categories:
-- Books
-tags:
-- blogmas
-status: publish
-type: post
-published: true
-meta:
-  _wpas_done_all: '1'
-  geo_public: '0'
-  _publicize_pending: '1'
-  publicize_facebook_url: https://facebook.com/10152466931902121
-  _wpas_done_3978535: '1'
-  _publicize_done_external: a:1:{s:8:"facebook";a:1:{i:529547120;b:1;}}
-  publicize_google_plus_url: https://plus.google.com/107655256437117319172/posts/139MLMxvZzA
-  _wpas_done_7343158: '1'
-  publicize_twitter_user: thesportsdiva
-  publicize_twitter_url: http://t.co/CeA7hb3Bb8
-  _wpas_done_3978447: '1'
-  publicize_tumblr_url: http://thesportsdiva.tumblr.com.tumblr.com/post/106076273899
-  _wpas_done_3675065: '1'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books reading
 ---
 <p>This should be my last Blogmas post. It was fun though! I missed a few days, but kept going. I'm going out of town for the Holiday and will be taking books of course. I have a week of reading on my hands. I won't be posting again until I do my favorite posts. I'm going to do multiple post this year. <a title="2013 Favorites" href="https://cheriedlampley.wordpress.com/2013/12/31/201312312013-favorites/">Last year</a> I just did one. This year there will be more to talk about. Anyway, I hope everyone has a wonderful holiday. Here are the books that will be coming with me. Some are physical books and some are on my Kindle. I hope to at least finish 2 of these. It would be awesome if I could do a bit more, but I'm not going to rush myself.</p>
 <p><a href="https://www.goodreads.com/book/show/18712886-the-queen-of-the-tearling?from_search=true"><img class="alignnone" src="assets/18712886.jpg" alt="" width="264" height="399" /></a> <a href="https://www.goodreads.com/book/show/20170404-station-eleven?from_search=true"><img class="alignnone" src="assets/20170404.jpg" alt="" width="271" height="400" /></a>  <a href="https://www.goodreads.com/book/show/18007564-the-martian?ac=1"><img class="alignnone" src="assets/18007564.jpg" alt="" width="263" height="399" /></a>  <a href="https://www.goodreads.com/book/show/18079683-boy-snow-bird?from_search=true"><img class="alignnone" src="assets/18079683.jpg" alt="" width="266" height="399" /></a></p>
