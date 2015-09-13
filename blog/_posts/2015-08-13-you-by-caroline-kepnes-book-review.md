@@ -2,53 +2,7 @@
 layout: post
 title: You by Caroline Kepnes | Book Review
 date: 2015-08-13 02:00:45.000000000 -04:00
-categories:
-- Books
-- Reviews
-tags: []
-status: publish
-type: post
-published: true
-meta:
-  _edit_last: '1'
-  jkl_radio: book
-  jkl_review_cover: https://d.gr-assets.com/books/1436476892l/23492630.jpg
-  jkl_review_title: You
-  jkl_review_author: Caroline Kepnes
-  jkl_review_series: 'Yes'
-  jkl_review_category: Erotic Thriller
-  jkl_review_rating: '3.5'
-  jkl_review_summary_area: ''
-  jkl_review_affiliate_uri: http://www.bookdepository.com/You-Caroline-Kepnes/9781471137358/?a_aid=cdlampley
-  jkl_review_product_uri: ''
-  jkl_review_author_uri: ''
-  jkl_review_resources_uri: ''
-  _publicize_facebook_user: http://www.facebook.com/529547120
-  _publicize_twitter_user: "@thesportsdiva"
-  _jetpack_related_posts_cache: a:1:{s:32:"8f6677c9d6b0f903e98ad32ec61f8deb";a:2:{s:7:"expires";i:1441370032;s:7:"payload";a:3:{i:0;a:1:{s:2:"id";i:2781;}i:1;a:1:{s:2:"id";i:2801;}i:2;a:1:{s:2:"id";i:3146;}}}}
-  book_review_rating: "-1"
-  _wpas_done_all: '1'
-  _wpas_mess: You by Caroline Kepnes | Book Review
-  _wpas_skip_11128275: '1'
-  _wpas_skip_3978535: '1'
-  _wpas_skip_3978447: '1'
-  _wpas_skip_3675065: '1'
-  _wpas_skip_7343158: '1'
-  book_review_archive_post: '1'
-  _oembed_5d452a54e195f346a35d42da8db6a912: <iframe width="660" height="371" src="https://www.youtube.com/embed/bY5DNTc3Gek?feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
-  _oembed_time_5d452a54e195f346a35d42da8db6a912: '1440890094'
-  _oembed_2ba5f7fc82a1f6412895b39d43742293: <iframe width="800" height="450" src="https://www.youtube.com/embed/bY5DNTc3Gek?feature=oembed"
-    frameborder="0" allowfullscreen></iframe>
-  _oembed_time_2ba5f7fc82a1f6412895b39d43742293: '1440890270'
-author:
-  login: cdlampley
-  email: cdlampley@gmail.com
-  display_name: cdlampley
-  first_name: Cherie
-  last_name: Lampley
-excerpt: !ruby/object:Hpricot::Doc
-  options: {}
+categories: books reviews video
 ---
 <p><strong>Title: </strong>You<br />
 <strong>Author: </strong>Caroline Kepnes<br />
@@ -63,7 +17,8 @@ excerpt: !ruby/object:Hpricot::Doc
 <h3>Why I Picked This Up</h3>
 <p>Heard buzz of this book from the internet. Wanted to see what all the fuss was about.</p>
 <h3>Thoughts:</h3>
-<p>https://youtu.be/bY5DNTc3Gek</p>
+<iframe width="660" height="371" src="https://www.youtube.com/embed/bY5DNTc3Gek?feature=oembed"
+    frameborder="0" allowfullscreen></iframe>
 <p>I enjoyed this book, but did not love it. I loved the first 3rd of this book. The middle dragged too much for me though. I would have preferred this book being 50 pages shorter. I still enjoyed it. There is going to be the sequel and I might pick it up. If you are looking for a new thriller to read, I recommend picking this up.</p>
 <div style="text-align: center;">
 <h3>Find The Book Online:</h3>
