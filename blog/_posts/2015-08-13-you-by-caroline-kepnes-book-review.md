@@ -11,7 +11,7 @@ categories: books reviews video
 <strong>Genre: </strong>Thriller (Psychological/Erotica)<br />
 <strong>Page Count: </strong>422<br />
 <br />
-<img src="http://images.abovethetreeline.com/ea/SS/images/jacket_covers/original/9781476785608_3229d.jpg?width=1000" alt="You by Caroline Kepnes" /></p>
+<img src="http://images.abovethetreeline.com/ea/SS/images/jacket_covers/original/9781476785608_3229d.jpg?width=1000" alt="You by Caroline Kepnes" width="300" height="400"/></p>
 <h3>Summary:</h3>
 <p>The story follows a guy named Joe. He works at a bookstore and one day meets Guinevere Beck. He becomes enamored with her and develops a crush. After learning her name, he cyber stalks her and this crush turns into an obsession. He makes sure that every obstacle that is in the way of them being together is removed. The story is written in a second person narrative through Joe's eyes.</p>
 <h3>Why I Picked This Up</h3>
