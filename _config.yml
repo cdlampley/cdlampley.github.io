@@ -3,7 +3,7 @@ title: Cherie Lampley
 email: hello@cherielampley.com
 description: Welcome to CherieLampley.com! I am a writer | web developer | youtuber living in Ohio. I love to read and watch sports.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://cherielampley.com" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 twitter_username: thesportsdiva
 github_username:  cdlampley
 
@@ -14,3 +14,6 @@ comments: true
 markdown: kramdown
 pygments: true
 
+#blog pages
+paginate: 5
+paginate_path: "/blog/page:num/"
