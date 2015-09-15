@@ -10,10 +10,10 @@ permalink: /book-lists/
 <p style="text-align: center;"><strong>Next Up:<br />
 </strong><i>Kindred </i>by Octavia Butler</p>
 <p style="text-align: center;"><strong>2015 Reads (Goodreads Goal = 40 books):</strong><br />
-<em>The Love Affairs of Nathaniel P</em> by Adelle Waldman (<a href="http://cherielampley.com/blog/2015/01/11/the-love-affairs-of-nathaniel-p-by-adelle-waldman-review/" target="_blank">review</a>)<br />
-<em>Golden Son</em> by Pierce Brown (<a href="http://cherielampley.com/blog/2015/03/16/review-red-queen-2-2/" target="_blank">review</a>)<br />
-<em>Eleanor &amp; Park</em> by Rainbow Rowell (<a href="http://cherielampley.com/blog/2015/02/14/review-eleanor-park/" target="_blank">review</a>)<br />
-<em>Red Queen</em> by Victoria Aveyard (<a href="http://cherielampley.com/blog/2015/03/09/review-red-queen-2-2-2/" target="_blank">review</a>)<br />
+<em>The Love Affairs of Nathaniel P</em> by Adelle Waldman<br />
+<em>Golden Son</em> by Pierce Brown<br />
+<em>Eleanor &amp; Park</em> by Rainbow Rowell<br />
+<em>Red Queen</em> by Victoria Aveyard<br />
 <em>Insurgent</em> by Veronica Roth<br />
 <em>Allegiant</em> by Veronica Roth<br />
 <em>The Raven Boys</em> by Maggie Stiefvater<br />
@@ -29,24 +29,24 @@ permalink: /book-lists/
 <em>Magonia</em> by Maria Dahvana Headley<br />
 <em>City of Bones</em> by Cassandra Clare<br />
 <em>Half-Resurection Blues</em> by Daniel José Older<br />
-<em>The Magicians</em> by Lev Grossman (<a href="http://cherielampley.com/blog/2015/06/22/the-magicians-review/" target="_blank">review</a>)<br />
+<em>The Magicians</em> by Lev Grossman <br />
 <em>The Mime Order</em> by Samantha Shannon<br />
 <em>Ready Player One</em> by Ernest Cline<br />
-<em>Uprooted</em> by Naomi Novik (<a href="http://cherielampley.com/blog/2015/07/21/uprooted-by-naomi-novik-book-review/">review</a>)<br />
-<em>Shadowshaper </em>by Daniel Jose Older (<a href="http://cherielampley.com/blog/2015/07/27/shadowshaper-by-daniel-jose-older-review/">review</a>)<br />
+<em>Uprooted</em> by Naomi Novik<br />
+<em>Shadowshaper </em>by Daniel Jose Older<br />
 <em>The Martian</em> by Andy Weir<br />
 <em>Cinder</em> by Marissa Meyer<br />
 <em>The Infinite Sea</em> by Rick Yancey<br />
-<em>You</em> by Caroline Kepnes (<a href="http://cherielampley.com/blog/2015/08/13/you-by-caroline-kepnes-book-review/">review</a>)<br />
+<em>You</em> by Caroline Kepnes review<br />
 The Dream Thieves by Maggie Stiefvater<br />
-<em>The Girl Who Fell From the Sky</em> by Heidi W. Durrow (<a href="http://cherielampley.com/blog/2015/08/20/the-girl-who-fell-from-the-sky-by-heidi-w-durrow-book-review/">review</a>)<br />
+<em>The Girl Who Fell From the Sky</em> by Heidi W. Durrow <br />
 <em>Beautiful Darkness</em> by Kami Garcia &amp; Margaret Stohl</p>
 <div class="alignleft"><script type="text/javascript">// <![CDATA[<br />
 amzn_assoc_ad_type = 'banner'; amzn_assoc_tracking_id = 'cherlamp-20'; amzn_assoc_marketplace = 'amazon'; amzn_assoc_region = 'US'; amzn_assoc_placement = 'assoc_banner_placement_default'; amzn_assoc_linkid = 'CKXM32USVEKONY3P'; amzn_assoc_campaigns = 'books'; amzn_assoc_banner_type = 'category'; amzn_assoc_isresponsive = 'true';<br />
 // ]]></script><br />
 <script src="//z-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;Operation=GetScript&amp;ID=OneJS&amp;WS=1"></script></div>
 <p style="text-align: center;"><strong>2014 Reads (Goodreads Goal = 25 books):<br />
-</strong><a href="http://cherielampley.com/blog/2014/12/31/favorite-12-books-in-2014/">2014 Favorites</a><br />
+</strong>2014 Favorites</a><br />
 <em>The Impossible Knife of Memory</em> by Laurie Halse Anderson<br />
 <em>Reconstructing Amelia</em> by Kimberly McCreight<br />
 <em>Divergent</em> by Veronica Roth<br />
@@ -58,17 +58,17 @@ amzn_assoc_ad_type = 'banner'; amzn_assoc_tracking_id = 'cherlamp-20'; amzn_asso
 <em>Harry Potter and the Order of the Phoenix</em> by JK Rowling<br />
 <em>Harry Potter and the Half-Blood Prince</em> by JK Rowling<br />
 <em>Harry Potter and the Deathly Hallows</em> by JK Rowling<br />
-<em>Anna and the French Kiss</em> by Stephanie Perkins (<a href="http://cherielampley.com/blog/2014/07/20/how-stephanie-perkins-is-awesome-book-review/" target="_blank">review</a>)<br />
+<em>Anna and the French Kiss</em> by Stephanie Perkins<br />
 <em>We Were Liars</em> by E. Lockhart<br />
 <em>Daughter of Smoke and Bone</em> by Laini Taylor<br />
 <em>Legend</em> by Marie Lu<br />
 <em>Days of Blood &amp; Starlight</em> by Laini Taylor<br />
 <em>The Hunger Games</em> by Suzanne Collins<br />
-<em>The Bone Season</em> by Samantha Shannon (<a href="http://cherielampley.com/blog/2014/07/14/the-bone-season-review/" target="_blank">review</a>)<br />
-<em>Lola and the Boy Next Door</em> by Stephanie Perkins (<a href="http://cherielampley.com/blog/2014/07/20/how-stephanie-perkins-is-awesome-book-review/" target="_blank">review</a>)<br />
+<em>The Bone Season</em> by Samantha Shannon<br />
+<em>Lola and the Boy Next Door</em> by Stephanie Perkins<br />
 <em>Catching Fire</em> by Suzanne Collins<br />
 <em>Dreams of Gods &amp; Monsters</em> by Laini Taylor<br />
-<em>Vicious</em> by V.E. Schwab (<a href="http://cherielampley.com/blog/2014/08/03/vicious-by-v-e-schwab-book-review/" target="_blank">review</a>)<br />
+<em>Vicious</em> by V.E. Schwab<br />
 <em>The 5th Wave</em> by Rick Yancey<br />
 <em>Angelfall</em> by Susan Ee<br />
 <em>Isla and the Happily Ever After</em> by Stephanie Perkins<br />
@@ -80,5 +80,5 @@ amzn_assoc_ad_type = 'banner'; amzn_assoc_tracking_id = 'cherlamp-20'; amzn_asso
 <em>Half Bad</em> by Sally Green<br />
 <em>Mockingjay</em> by Suzanne Collins<br />
 <em>Mr. Penumbra's 24-hour Book Store</em> by Robin Sloane<br />
-<em>Red Rising</em> by Pierce Brown (<a href="http://cherielampley.com/blog/2015/03/16/review-red-queen-2-2/" target="_blank">review</a>)<br />
+<em>Red Rising</em> by Pierce Brown<br />
 <em>Everything I've Never Told You</em> by Celeste Ng</p>
