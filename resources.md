@@ -7,15 +7,14 @@ permalink: /resources/
 I thought it would be helpful to create this resource page. I wanted to help in showing what I use to create my videos as well as this website. This page will be updated on a regular basis if I decide to use a different or new product. I hope this helps if you are deciding to start a blog or YouTube channel.
 <div>
 <h3>Camera</h3>
-<img src="http://ecx.images-amazon.com/images/I/61W7-q2-FgL._SY450_.jpg" alt="" width="200" height="200" /><br>
-<a href="“http://amzn.to/1Eu7zqo”">Canon Powershot ELPH 110 HS</a> |
-You can get started on making videos with the webcam on your computer or even the camera on your phone. I have a couple videos on my channel from my web cam. I am currently using this Canon. I've had this camera for a number of years and it works fine. I do plan to upgrade, but since it takes me a while to research, I'll probably have this camera for a while longer.
-
+<img src="http://ecx.images-amazon.com/images/I/81d01vC5qWL._SX522_.jpg" alt="" width="200" height="200" /><br>
+<a href="http://amzn.to/1L1RyKV">Canon VIXIA HF R600</a> |
+I've recently upgraded to this Canon VIXIA from a Canon Powershot. Satisfied with my upgrade so far. You can get started on making videos with the webcam on your computer or even the camera on your phone. I have a couple videos on my channel from my web cam. 
 </div>
 <div>
 <h3>Memory Card</h3>
 <img src="http://ecx.images-amazon.com/images/I/61KmVuGAvvL._SL1062_.jpg" alt="" width="200" height="200" /><br>
-<a href="&quot;http://amzn.to/1O26gPj">Trascend Memory Card</a> |
+<a href="http://amzn.to/1O26gPj">Trascend Memory Card</a> |
 Whenever you get a camera, make sure you get a memory card. I have a few of these. I believe I decided on Transcend because I heard they're great and they are inexpensive.
 
 </div>
