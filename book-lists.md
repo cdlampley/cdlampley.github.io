@@ -40,7 +40,9 @@ permalink: /book-lists/
 <em>You</em> by Caroline Kepnes review<br />
 The Dream Thieves by Maggie Stiefvater<br />
 <em>The Girl Who Fell From the Sky</em> by Heidi W. Durrow <br />
-<em>Beautiful Darkness</em> by Kami Garcia &amp; Margaret Stohl</p>
+<em>Beautiful Darkness</em> by Kami Garcia &amp; Margaret Stohl<br>
+<em>Falling Kingdoms</em> by Morgan Rhodes<br>
+</p>
 <div class="alignleft"><script type="text/javascript">// <![CDATA[<br />
 amzn_assoc_ad_type = 'banner'; amzn_assoc_tracking_id = 'cherlamp-20'; amzn_assoc_marketplace = 'amazon'; amzn_assoc_region = 'US'; amzn_assoc_placement = 'assoc_banner_placement_default'; amzn_assoc_linkid = 'CKXM32USVEKONY3P'; amzn_assoc_campaigns = 'books'; amzn_assoc_banner_type = 'category'; amzn_assoc_isresponsive = 'true';<br />
 // ]]></script><br />
