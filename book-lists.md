@@ -3,12 +3,13 @@ layout: info-page
 permalink: /book-lists/
 ---
 <p style="text-align: center;">Here is a list of what I'm currently reading, what is up next, what I've read this year, and what I've read in the past.</p>
-<p style="text-align: center;"><strong>What I'm Reading:<br />
-<img src="assets/6402660.jpg" alt="The Historian book cover" width="200px" /><br />
-</strong><em>The Historian</em> by Elizabeth Kostova<strong><br />
-</strong></p>
-<p style="text-align: center;"><strong>Next Up:<br />
-</strong><i>Kindred </i>by Octavia Butler</p>
+<p style="text-align: center;"><strong>What I'm Reading:</strong><br /></p>
+<img src="http://images.abovethetreeline.com/ea/RH/images/jacket_covers/original/9780143119685_c0fbf.jpg?width=1000" width="300" height="200">
+<img src="https://d.gr-assets.com/books/1377023523l/16069030.jpg" width="300" height="200">
+<p style="text-align: center;"><strong>Next Up:</strong><br /></p>
+<img src="http://images.abovethetreeline.com/ea/RH/images/jacket_covers/original/9780425283370_a4758.jpg?width=1000" width="300" height="200">
+<img src="">
+<img src="">
 <p style="text-align: center;"><strong>2015 Reads (Goodreads Goal = 40 books):</strong><br />
 <em>The Love Affairs of Nathaniel P</em> by Adelle Waldman<br />
 <em>Golden Son</em> by Pierce Brown<br />
