@@ -3,16 +3,17 @@ body {
   font-family: Roboto;
   color: #fff;
 }
+.app {
+	text-align: center;
+}
 header {
   font-size: 1.25em;
-  text-align: center;
 }
 #question {
 	padding: 10px;
 	text-align: center;
 }
 #magic-eight-ball {
-  text-align: center;
   margin: 25px 0;
 }
 #submit {
@@ -33,7 +34,6 @@ header {
 	 margin-top: 10px;
 }
 #refresh-button {
-	text-align: center;
 	display: none;
 }
 #answer {
@@ -48,7 +48,9 @@ header {
   color: #fff;
   width: 350px;
   height: 350px;
-  margin: 50px 450px;
   border-radius: 170px;
-	display: none;
+  display: none;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
