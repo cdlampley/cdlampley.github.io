@@ -3,6 +3,8 @@
 }
 body {
 	background: URL('../IMG/Background.png');
+	width: 100%;
+	height: 100%;
 }
 #logo {
 	text-align: center;
@@ -90,7 +92,6 @@ body {
 #post3 {
 	padding-bottom: 20px;
 }
-
 #info {
 	background: #333333;
 	width: 100%;
