@@ -116,3 +116,7 @@ a {
 .PageNavigation .next {
   text-align: right;
 }
+.post-style {
+  list-style: none;	
+}
+}
