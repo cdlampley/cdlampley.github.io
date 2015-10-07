@@ -112,7 +112,13 @@ a {
   float: left;
   margin: 1em 0;
 }
-
 .PageNavigation .next {
   text-align: right;
 }
+/* work with me page */
+.work-submit {
+	background: #471454;
+	color: #fff;
+}
+
+
