@@ -19,7 +19,7 @@ permalink: /work-with-me/
 <div class="col-md-6">
 	<ul style="margin-top:25px;">
 		<li><h3>I can creat a single page or a multi-page website</h3></li>
-		<li><h3>I can update, chage, or make your current website mobile responsive</h3></li>
+		<li><h3>I can update, change, or make your current website mobile responsive</h3></li>
 		<li><h2>You can also email me at <a href="mailto:hello@cherielampley.com">hello@cherielampley.com</a></h2></li>
 	</ul>
 </div>
