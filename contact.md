@@ -42,8 +42,7 @@ permalink: /contact/
 
 </div>
 <div>
-Business Email: <a href="mailto:info@cherielampley.com">info@cherielampley.com</a><br>
-General Email: <a href="mailto:hello@cherielampley.com">hello@cherielampley.com</a>
+Email: <a href="mailto:hello@cherielampley.com">hello@cherielampley.com</a>
 </div>
 
 

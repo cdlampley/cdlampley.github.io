@@ -59,7 +59,7 @@ a {
   font-family: Lobster;
 }
 
-/** Image **/
+/** Images **/
 #image {
   border: 5px solid #c7ac05;
   border-radius: 100px;
@@ -73,6 +73,10 @@ a {
 	color: #ef4f91;
 	font-family: Lobster;
 	margin-top: 50px;
+}
+.body-image {
+	margin: -30px -100px;
+	
 }
 /** Portfolio Section **/
 #portfolio h2 {
@@ -121,10 +125,7 @@ a {
 .PageNavigation .next {
   text-align: right;
 }
-/* work with me page */
-.work-submit {
-	background: #471454;
-	color: #fff;
+
+.row {
+	margin-top: 50px;
 }
-
-
