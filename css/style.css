@@ -125,6 +125,13 @@ a {
 .PageNavigation .next {
   text-align: right;
 }
+<<<<<<< HEAD
 .row {
 	margin-top: 50px;
 }
+=======
+.post-style {
+  list-style: none;	
+}
+}
+>>>>>>> origin/master
