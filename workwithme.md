@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Let's Work Together
-permalink: /work-with-me/
+title: Web Design Service
+permalink: /web-design-service/
 ---
 <style>
 body {
