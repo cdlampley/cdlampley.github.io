@@ -52,8 +52,7 @@ Have you been switching between wordpress themes over and over and over again?<b
 		<li>You will fill out the <a href="/contact-form.html">contact form</a> and I will respond to you within 48 hours.</li>
 		<li>I will send you the proposal.</li>
 		<li>I will send over the contract and invoice for 25%-50% of payment up front.</li>
-		<li>I will then send you the welcome packet.</li>
-		<li>You will fill out the detailed questionnaire that is in the welcome packet for the content you would like on your website.</li>
+		<li>I will send over a detailed questionnaire for the content you would like on your website.</li>
 		<li>The website is designed and developed.</li>
 		<li>The website is launched.</li>
 	</ul>
