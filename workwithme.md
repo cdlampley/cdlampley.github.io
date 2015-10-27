@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Web Design Service
-permalink: /web-design-service/
+title: Web Design Services
+permalink: /work-with-me/
 ---
 <style>
 body {
@@ -26,8 +26,7 @@ button {
 }
 </style>
 <div style="margin-top: 2em;">
-<h3 style="color: #9b36e2;">Is this you?</h3>
-Are you a small business owner wanting to up your online presence?<br>
+Are you a writer wanting to up your online presence?<br>
 Are you someone that doesn't want to spend too much time worrying about building your website?<br>
 Have you been switching between wordpress themes over and over and over again?<br>
 </div>
