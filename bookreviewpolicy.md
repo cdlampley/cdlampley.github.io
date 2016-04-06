@@ -24,7 +24,7 @@ Science Fiction/Dystopian<br>
 Erotica<br>
 Non-Fiction<br>
 
-You may submit your review request by sending an email to <a href="mailto:info@cherielampley.com">info@cherielampley.com</a> with the information below. After receiving the request, I will go over the information and contact you on whether or not I would like to review the book.
+You may submit your review request by sending an email to <a href="mailto:cherie@cherielampley.com">cherie@cherielampley.com</a> with the information below. After receiving the request, I will go over the information and contact you on whether or not I would like to review the book.
 
 Information to include in the email:
 
