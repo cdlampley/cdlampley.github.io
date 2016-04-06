@@ -11,7 +11,7 @@ Hello! I am happy to accept review copies (print or e-book format) on occasion. 
 I will always give an honest review.<br>
 Submitting a request does not guarantee a review.<br>
 Self-Published novels will be considered as well.<br>
-I will post my reviews on Goodreads, this website, and/or on my YouTube channel.<br>
+I will post my reviews on Goodreads, this website, <a href="http://readwithcherie.wordpress.com">my blog</a>, and/or on my YouTube channel.<br>
 
 You may submit your review by filling out the form below. I will go over the information and contact you on whether or not I would like to review the book.
 
