@@ -15,7 +15,7 @@ I will post my reviews on Goodreads, this website, <a href="http://readwithcheri
 
 You may submit your review by filling out the form below. I will go over the information and contact you on whether or not I would like to review the book.
 
-I look forward to hearing from you with you!<br>
+I look forward to hearing from you!<br>
 
 <!-- Change the width and height values to suit you best -->
 <div class="typeform-widget" data-url="https://cdlampley.typeform.com/to/UiZTF7" data-text="Book Review Request" style="width:100%;height:500px;"></div>
