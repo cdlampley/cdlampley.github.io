@@ -42,7 +42,7 @@ permalink: /contact/
 
 </div>
 <div>
-Email: <a href="mailto:hello@cherielampley.com">hello@cherielampley.com</a>
+Email: <a href="mailto:cherie@cherielampley.com">cherie@cherielampley.com</a>
 </div>
 
 
