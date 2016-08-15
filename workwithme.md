@@ -32,7 +32,7 @@ Have you been switching between wordpress themes over and over and over again?<b
 </div>
 <!-- What I do -->
 <div style="margin-top: 2em;">
-<b><h3 style="color: #9b36e2;">I am here to help!</h3></b>
+<b><h3 style="color: #9b36e2; text-align: center;">I AM HERE TO HELP!</h3></b>
 </div>
 <div style="text-align:center;">
 	<img src="https://s3.amazonaws.com/f.cl.ly/items/2X3w1v3l0h2s120B1V30/landing-page.png" class="col-md-4">
