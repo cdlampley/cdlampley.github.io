@@ -1,11 +1,5 @@
-.section {
-    float:left;
-    padding:10px; 
-}
-.about {
-	text-align:justify;
-}
-.title {
+
+h1 {
     font-family: Lobster;
     font-size: 4em;
     color: #c7ac05;
@@ -26,6 +20,7 @@
 /** About Section **/
 #about {
   font-size: 1.25em;
+  margin-bottom: 325px;
 }
 #about h2 {
   background: #7faf94;
@@ -39,34 +34,45 @@
 		top: 0;
 		font-size: 2em;
 }
-.col-md-8 h3 {
-    color: #ef4f91;
-		font-family: Lobster;
-		top: 0;
-		font-size: 2em;
-}
-.col-md-8 h3 a {
-    color: #ef4f91;
-		font-family: Lobster;
-		text-decoration: underline;
-}
-
 a {
-       color: #ef4f91;
+    color: #ef4f91;
 		text-decoration: none;
 }
 .lead {
   font-family: Lobster;
 }
-
-/** Images **/
+/** Nav Menu **/
+#nav-meny {
+    margin-top: 15px;
+    float: none;
+}
+#nav-menu ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-align: center;
+}
+#nav-menu li {
+  display: inline;
+}
+#nav-menu a {
+    background: #ef4f91;
+    padding: 10px;
+    color: #000;
+    font-size: 1.25em;
+}
+#nav-menu a:hover {
+  text-decoration: underline;
+}
+.navbar {
+    background: #ef4f91;
+}
+/** Image **/
 #image {
   border: 5px solid #c7ac05;
   border-radius: 100px;
-  width: 350px;
-  height: 400px;
-  margin-bottom: 50px;
-  
+  width: 260px;
+  height: 276px;
 }
 .photo {
 	text-align: center;
@@ -74,11 +80,10 @@ a {
 	font-family: Lobster;
 	margin-top: 50px;
 }
-.body-image {
-	margin: -30px -100px;
-	
-}
 /** Portfolio Section **/
+#portfolio {
+  margin-bottom: 325px;
+}
 #portfolio h2 {
 	background: #7faf94;
 	padding: 10px 50px;
@@ -104,33 +109,56 @@ a {
 #contact p {
 	text-align: center;
 }
-/** Post **/
-.PageNavigation {
-  font-size: 14px;
-  display: block;
-  width: auto;
-  overflow: hidden;
+
+/** Social **/
+#social {
+   position: relative;
+   top: 50px;
+   height: 50px;
 }
-.blog-post {
-  margin: auto;
-  left: 50%;
+#social ul {
+    list-style: none;
+}
+#social li, #social a {
+    height: 50px;
+    display: block;
+}
+#social li {
+	padding: 0;
+	list-style: none;
+	position: absolute;
+	margin-left: 42%;
+}
+
+#twitter {
+  left: 0;
+  width: 50px;
+  background: url(https://s3.amazonaws.com/f.cl.ly/items/1J0N1I0E0c120l280f2g/3-6%20icon%20sprite.png);
+}
+#github {
+  left: 50px;
+  width: 50px;
+  background: url(https://s3.amazonaws.com/f.cl.ly/items/1J0N1I0E0c120l280f2g/3-6%20icon%20sprite.png) -50px 0;
+}
+#facebook {
+  left: 100px;
+  width: 50px;
+  background: url(https://s3.amazonaws.com/f.cl.ly/items/1J0N1I0E0c120l280f2g/3-6%20icon%20sprite.png) -100px 0;
+}
+#tumblr {
+  left: 150px;
+  width: 50px;
+  background: url(https://s3.amazonaws.com/f.cl.ly/items/1J0N1I0E0c120l280f2g/3-6%20icon%20sprite.png) -150px 0;
+}
+/** footer **/
+#footer {
   position: absolute;
+	left: 0;
+  height: 50px;
+  width: 100%;
+  background: #fff8f1;
 }
-.PageNavigation a {
-  display: block;
-  width: 50%;
-  float: left;
-  margin: 1em 0;
+#footer p {
+    text-align: center;
+    font-size: 12px;
 }
-.PageNavigation .next {
-  text-align: right;
-}
-.row {
-	margin-top: 50px;
-}
-
-.post-style {
-  list-style: none;	
-}
-
-
