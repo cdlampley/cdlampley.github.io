@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Web Design Services
-permalink: /work-with-me/
+permalink: //
 ---
 <style>
 body {
@@ -49,8 +49,8 @@ Have you been switching between wordpress themes over and over and over again?<b
 	<h3 style="color: #9b36e2;">Here is how the process works:</h3>
 	<ul>
 		<li>You will fill out the <a href="/contact-form.html">contact form</a> and I will respond to you within 48 hours.</li>
-		<li>I will send you the proposal.</li>
-		<li>I will send over the contract and invoice for 25%-50% of payment up front.</li>
+		<li>I will send you a proposal.</li>
+		<li>I will send over the contract and invoice for 50% of payment up front.</li>
 		<li>I will send over a detailed questionnaire for the content you would like on your website.</li>
 		<li>The website is designed and developed.</li>
 		<li>The website is launched.</li>
