@@ -171,7 +171,6 @@ a {
 }
 .started {
 		text-align: center;
-		margin-top: 200px;
 	}
 .work-button {
 		background: #9b36e2;
@@ -189,8 +188,9 @@ a {
 }
 .square {
 	text-align: center;
-	margin-bottom: 200px;
 } 
 .process {
 	font-size: 1.25em;
+	text-align: center;
+	list-style: none;
 }
