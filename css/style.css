@@ -1,5 +1,5 @@
 
-h1 {
+.title {
     font-family: Lobster;
     font-size: 4em;
     color: #c7ac05;
@@ -194,3 +194,22 @@ a {
 	text-align: center;
 	list-style: none;
 }
+/**Package**/
+.package {
+	text-align: center;
+}
+.pckg {
+	margin-bottom: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
