@@ -4,6 +4,7 @@ h1 {
     font-size: 4em;
     color: #c7ac05;
     margin-top: 30px;
+	text-align: center;
 }
 #main {
   padding-top: 70px;
@@ -202,3 +203,29 @@ a {
 .pckg {
 	margin-bottom: 25px;
 }
+
+.disclaimer {
+	margin-bottom: 100px;
+}
+
+.resources {
+	font-size: 1.25em;
+	margin-bottom: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

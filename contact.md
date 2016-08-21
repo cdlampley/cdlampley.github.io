@@ -10,7 +10,7 @@ permalink: /contact/
 </div>
 <div>
 
-<a href="http://www.twitter.com/thesportsdiva">Twitter</a>
+<a href="http://www.twitter.com/cherielampley">Twitter</a>
 
 </div>
 <div>
@@ -33,7 +33,7 @@ permalink: /contact/
 </div>
 <div>
 
-<a href="http://www.instagram.com/thesportsdiva">Instagram</a>
+<a href="http://www.instagram.com/cheriedlampley">Instagram</a>
 
 </div>
 <div>
