@@ -26,7 +26,7 @@ function onYouTubePlayerAPIReady() {
             'showinfo': 0,
             'loop': 1,
             'mute': 1,
-            //'start': 15,
+            //'start': 0,
             //'end': 110,
             'playlist': 'ruBeyKp_F5E'
         },
