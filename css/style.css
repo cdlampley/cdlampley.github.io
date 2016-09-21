@@ -109,7 +109,9 @@ a {
   margin-bottom: 75px;
 }
 #contact p {
-	text-align: center;
+	text-align: justify;
+	margin-right: 80px;
+	margin-left: 80px;
 }
 
 /** Social **/
