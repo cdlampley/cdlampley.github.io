@@ -1,18 +1,12 @@
 # Site settings
-title: Cherie Lampley
+name: Cherie Lampley
+markdown: kramdown
 email: cherie@cherielampley.com
 description: Cherie Lampley is a web strategy consultant, a writer, and a book reviewer
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
-twitter_username: CherieLampley
-github_username:  cdlampley
-highlighter: rouge
 
 #blog commments
 comments: true
+permalink: /blog/:year/:month/:day/:title
 
 # Build settings
-markdown: kramdown
-pygments: true
 
-permalink: /blog/:year/:month/:day/:title
