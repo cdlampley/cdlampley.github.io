@@ -162,14 +162,28 @@ a {
 /** footer **/
 #footer {
   position: absolute;
-	left: 0;
-  height: 50px;
+  left: 0;
+  height: 80px;
   width: 100%;
-  background: #fff8f1;
+  background: #fff8f1; 
 }
 #footer p {
     text-align: center;
     font-size: 12px;
+	margin-top: 25px;
+}
+#footer-blog {
+    position: absolute;
+    left: 0;
+    height: 80px;
+    width: 100%;
+    background: #fff8f1; 
+	margin-top: 30%;
+}
+#footer-blog p {
+    text-align: center;
+    font-size: 12px;
+	margin-top: 25px;
 }
 /** Design Services Page **/
 .started a {
