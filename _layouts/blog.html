@@ -1,21 +1,39 @@
 <!DOCTYPE html>
-<html>
-
-  {% include head.html %}
-
-  <body>
-
-    {% include header.html %}
-<div class="container">
-    <div class="page-content">
-    	<div class="col-md-8">
-      <div class="wrapper">
-        {{ content }}
-	</div>
-    </div>
-    </div>
-    <div class="col-md-4"></div>
-    </div>
-    {% include footer.html %}
-  </body>
-</html>
+	<html>
+		<head>
+			<title>{{ page.title }}</title>
+			<meta name="description" content="Cherie Lampley is a web strategy consultant, a writer, and a book reviewer.">
+			<meta name="keywords" content="web design, web development, writer, websites, freelance">
+	        <link rel="shortcut icon" href="https://s3.amazonaws.com/f.cl.ly/items/0P2f2z0C0L1e3A1g212T/favicon.png">
+	        <!-- Style Sheets-->
+	        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+			<link rel="stylesheet" href="../css/normalize.css" type="text/css">
+	        <link rel="stylesheet" href="../css/folio.css" type="text/css">
+			<link rel="stylesheet" href="../css/style.css" type="text/css">
+	        <link rel="stylesheet" href="../css/responsive.css" type="text/css">
+	        <!-- Font Family -->
+	        <link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	        <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+		</head>
+		<body>
+			<div class="container">
+			<div class="back">
+				<ul class="nav nav-pills">
+				  <li>
+	 			  <li>
+	 			    <a href="/index.html">Home</a>
+	 			  </li>
+	 			  <li class="active"><a href="/blog">Blog</a></li>
+	 			  <li><a href="/workwithme.html">Work With Me</a></li>
+	 			  <li><a href="/resources.html">Resources</a></li>
+	 			  <li><a href="/booklists.html">Book Lists</a></li>
+				  </li>
+				</ul>
+			</div>
+			
+			{{ content }}
+			
+			</div><!-- /.container -->
+			
+		</body>
+	</html>

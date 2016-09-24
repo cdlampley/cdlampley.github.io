@@ -18,6 +18,11 @@ h1 {
     text-align: center;
 }
 
+#mail-title {
+    text-align: center;
+    margin-bottom: 0;
+}
+
 /** About Section **/
 #about {
   font-size: 1.25em;
