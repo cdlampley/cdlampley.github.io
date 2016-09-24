@@ -1,10 +1,10 @@
 # Site settings
 title: Cherie Lampley
 email: cherie@cherielampley.com
-description: Writer + Web Designer
+description: Cherie Lampley is a web strategy consultant, a writer, and a book reviewer
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-twitter_username: cherielampley
+twitter_username: CherieLampley
 github_username:  cdlampley
 highlighter: rouge
 
